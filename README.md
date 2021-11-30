@@ -60,7 +60,7 @@ After, you did this, you will have three options:
 Victoria Sanchez-Apellaniz, Emna Bouzguenda and Blair Ferguron 
 Second year BBA and BDBA IE students
 
-Project Link: https://github.com/vsanchez2512/Healtheat.git
+Project Link: https://github.com/vsanchez2512/Loveat.git
         
 
 
