@@ -1,4 +1,4 @@
-# Healtheat
+# Loveat
 Programming project
 
 
@@ -24,7 +24,7 @@ Programming project
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The main goal of this programming Health eat project is to create an Gui application that contains a file and where the user can add his data to this file. Our idea was to create something that could help the user to be healther and to get more informed about what he eats.
+The main goal of this programming Loveat project is to create an Gui application that contains a file and where the user can add his data to this file. Our idea was to create something that could help the user to be healthier and to get more informed about what he eats.
 
 
 
